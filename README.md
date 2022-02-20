@@ -1,0 +1,2 @@
+# rmselectro
+static website
